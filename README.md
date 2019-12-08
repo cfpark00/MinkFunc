@@ -14,4 +14,4 @@ Main feature: Calculation of Minkowski Functionals in *R* <sup>3</sup> based on 
 Python implementation of Delaunay Tesselation Field estimator.
 
 ## CorrSp
-Code to find n-points overlapping within radius R for all n. Very slow for dense population.
+Code to find n-points overlapping within radius R for all n. Very slow for dense samples.
