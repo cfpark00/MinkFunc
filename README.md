@@ -7,7 +7,7 @@ Oct-tree and quad-tree structure to handle point samples.
 Main features: Tree structure, Calculation of Box-counting Plot, weighted random down sampling.
 
 ## MF
-Python implementation of Minkowski Functional calculator using the Germ--Grain model. Compuation based on Voronoi tesselations
+Python implementation of Minkowski Functional calculation of the Germ--Grain model. Compuation based on Voronoi tesselations
 Main feature: Calculation of Minkowski Functionals in *R* <sup>3</sup> based on Voronoi tesselations. Boundaries can be masked or optimized.
 
 ## DTFE
