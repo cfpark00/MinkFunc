@@ -1,9 +1,9 @@
 # _cosgeopy_
-Tools for geometrical analysis of point samples, especially for cosmology
+Tools for geometrical analysis of point samples, especially for cosmology.  
 Contact: cfpark00@gmail.com  /  cfpark00.github.io
 
 ## _datatools_
-Oct-tree and quad-tree structure to handle point samples.
+Oct-tree and quad-tree structure to handle point samples.  
 Main features: Tree structure, Calculation of Box-counting Plot, weighted random down sampling.
 
 ## MF
