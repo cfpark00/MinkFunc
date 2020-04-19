@@ -1,4 +1,4 @@
-# _cosgeopy_
+# _MinkFunc_
 Tools for geometrical analysis of point samples, especially for cosmology. Written for Python 3.  
 Requires: numpy, scipy, matplotlib  
 Contact: cfpark00@gmail.com  /  cfpark00.github.io
